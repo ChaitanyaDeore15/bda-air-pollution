@@ -1,0 +1,24 @@
+{
+  "tables": [
+    "hotspots_ranking.csv",
+    "hourly_pattern_summary.csv",
+    "monthly_city_summary.csv",
+    "pollutant_correlation_matrix.csv",
+    "seasonal_summary.csv",
+    "station_ranking_summary.csv"
+  ],
+  "charts": [
+    "01_top_pm25_cities_jan2024.png",
+    "04_diurnal_hourly_pattern.png",
+    "04_hotspot_severity_ranking.png",
+    "04_seasonal_pollution_shift.png",
+    "05_pm25_forecasting_evaluation.png",
+    "05_pollutant_correlation_heatmap.png",
+    "hotspots_map.html"
+  ],
+  "metrics": [
+    "data_quality_summary.json",
+    "forecasting_metrics.json",
+    "spark_pipeline_metrics.json"
+  ]
+}

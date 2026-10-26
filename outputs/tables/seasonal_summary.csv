@@ -1,0 +1,117 @@
+state_name,season,avg_pm25,avg_pm10,avg_no2,total_obs
+Andhra Pradesh,Monsoon,26.63,54.99,14.47,329659
+Andhra Pradesh,Post-Monsoon,39.71,74.75,18.23,176320
+Andhra Pradesh,Summer / Pre-Monsoon,31.4,66.77,15.07,260280
+Andhra Pradesh,Winter,42.76,74.98,17.58,264715
+Arunachal Pradesh,Monsoon,15.43,30.56,2.55,20782
+Arunachal Pradesh,Post-Monsoon,23.99,48.28,2.86,13182
+Arunachal Pradesh,Summer / Pre-Monsoon,37.34,62.04,2.17,19374
+Arunachal Pradesh,Winter,43.63,77.8,2.16,21413
+Assam,Monsoon,34.62,63.21,8.26,260550
+Assam,Post-Monsoon,42.78,71.13,8.34,135416
+Assam,Summer / Pre-Monsoon,59.14,128.18,17.09,204267
+Assam,Winter,92.74,161.24,19.03,200044
+Bihar,Monsoon,34.69,75.88,13.23,1051719
+Bihar,Post-Monsoon,71.76,152.02,17.83,584880
+Bihar,Summer / Pre-Monsoon,59.05,136.17,18.53,843675
+Bihar,Winter,94.82,189.22,18.14,867087
+Chandigarh,Monsoon,34.03,88.97,21.42,118378
+Chandigarh,Post-Monsoon,99.21,170.12,39.5,59046
+Chandigarh,Summer / Pre-Monsoon,58.59,132.6,26.54,89944
+Chandigarh,Winter,111.95,180.91,32.25,84111
+Chhattisgarh,Monsoon,18.73,45.11,12.43,321676
+Chhattisgarh,Post-Monsoon,38.52,90.65,17.98,172129
+Chhattisgarh,Summer / Pre-Monsoon,31.01,78.02,28.1,254932
+Chhattisgarh,Winter,37.62,91.67,30.78,257597
+Delhi,Monsoon,42.28,114.64,28.9,1130388
+Delhi,Post-Monsoon,180.29,318.95,52.25,573594
+Delhi,Summer / Pre-Monsoon,80.2,209.41,43.15,856940
+Delhi,Winter,162.02,272.91,54.43,852091
+Gujarat,Monsoon,28.52,62.38,21.99,377855
+Gujarat,Post-Monsoon,61.57,126.11,27.98,219714
+Gujarat,Summer / Pre-Monsoon,50.48,103.31,29.54,302007
+Gujarat,Winter,60.67,113.37,24.31,335695
+Haryana,Monsoon,41.98,83.09,17.97,915414
+Haryana,Post-Monsoon,97.0,177.2,18.8,477584
+Haryana,Summer / Pre-Monsoon,67.37,143.46,20.31,714303
+Haryana,Winter,84.96,157.49,19.74,648079
+Himachal Pradesh,Monsoon,41.97,107.61,17.93,34102
+Himachal Pradesh,Post-Monsoon,84.73,162.3,21.88,17033
+Himachal Pradesh,Summer / Pre-Monsoon,49.16,137.37,18.2,25172
+Himachal Pradesh,Winter,111.55,197.63,31.82,24015
+Jharkhand,Monsoon,264.57,77.76,70.02,5566
+Jharkhand,Post-Monsoon,95.52,231.16,82.8,3280
+Jharkhand,Summer / Pre-Monsoon,34.68,122.51,87.92,9954
+Jharkhand,Winter,59.46,183.91,98.48,12559
+Karnataka,Monsoon,18.18,45.43,13.54,835068
+Karnataka,Post-Monsoon,29.27,61.18,16.45,424056
+Karnataka,Summer / Pre-Monsoon,31.83,68.74,13.51,578213
+Karnataka,Winter,33.64,71.49,16.08,610325
+Kerala,Monsoon,24.11,46.01,7.98,148529
+Kerala,Post-Monsoon,28.81,50.72,8.81,76124
+Kerala,Summer / Pre-Monsoon,35.01,63.27,5.91,137530
+Kerala,Winter,34.0,61.91,7.08,134388
+Madhya Pradesh,Monsoon,21.38,57.64,15.22,677043
+Madhya Pradesh,Post-Monsoon,65.48,142.97,30.09,364701
+Madhya Pradesh,Summer / Pre-Monsoon,38.77,104.96,25.48,515437
+Madhya Pradesh,Winter,63.47,131.06,30.29,529939
+Maharashtra,Monsoon,17.97,47.77,15.35,2640886
+Maharashtra,Post-Monsoon,54.28,116.14,26.56,1376676
+Maharashtra,Summer / Pre-Monsoon,40.91,99.55,25.98,1987048
+Maharashtra,Winter,58.42,126.89,35.41,2026755
+Meghalaya,Monsoon,10.78,13.98,1.06,22326
+Meghalaya,Post-Monsoon,21.43,23.53,0.48,11096
+Meghalaya,Summer / Pre-Monsoon,46.24,72.67,1.36,18661
+Meghalaya,Winter,43.55,67.85,3.73,17552
+Mizoram,Monsoon,4.82,24.85,1.05,32983
+Mizoram,Post-Monsoon,5.79,37.93,0.7,16670
+Mizoram,Summer / Pre-Monsoon,24.95,65.89,0.86,24872
+Mizoram,Winter,25.45,52.72,0.65,24247
+Odisha,Monsoon,23.74,57.4,12.43,563057
+Odisha,Post-Monsoon,50.65,106.98,18.34,287959
+Odisha,Summer / Pre-Monsoon,50.17,113.9,14.73,422861
+Odisha,Winter,79.28,148.73,22.89,432625
+Puducherry,Monsoon,14.66,33.75,8.73,28257
+Puducherry,Post-Monsoon,30.59,44.55,12.18,15369
+Puducherry,Summer / Pre-Monsoon,18.33,38.3,6.34,23661
+Puducherry,Winter,32.56,54.04,13.53,22818
+Punjab,Monsoon,41.61,91.45,20.02,236588
+Punjab,Post-Monsoon,74.12,157.28,22.85,117384
+Punjab,Summer / Pre-Monsoon,51.56,118.01,23.05,175856
+Punjab,Winter,59.93,121.62,21.26,174534
+Rajasthan,Monsoon,27.66,77.98,13.99,1578033
+Rajasthan,Post-Monsoon,65.28,150.66,33.76,829075
+Rajasthan,Summer / Pre-Monsoon,42.02,134.71,25.84,1217837
+Rajasthan,Winter,76.4,154.79,33.47,1217579
+Sikkim,Monsoon,6.48,10.82,0.42,20812
+Sikkim,Post-Monsoon,15.51,24.24,0.87,11412
+Sikkim,Summer / Pre-Monsoon,17.36,47.32,1.82,20331
+Sikkim,Winter,18.15,41.04,3.03,19329
+Tamil Nadu,Monsoon,20.32,,,1542
+Tamil Nadu,Post-Monsoon,40.68,,,1430
+Tamil Nadu,Summer / Pre-Monsoon,21.13,,,1861
+Tamil Nadu,Winter,43.6,,,2184
+TamilNadu,Monsoon,20.61,52.3,13.36,259769
+TamilNadu,Post-Monsoon,32.36,62.38,10.96,215638
+TamilNadu,Summer / Pre-Monsoon,23.19,53.46,10.77,189683
+TamilNadu,Winter,38.55,72.58,11.58,238779
+Telangana,Monsoon,23.5,57.01,15.3,406243
+Telangana,Post-Monsoon,41.39,93.97,20.85,227921
+Telangana,Summer / Pre-Monsoon,35.04,80.36,17.29,292955
+Telangana,Winter,38.79,84.23,21.03,313679
+Tripura,Monsoon,25.57,54.91,4.87,29742
+Tripura,Post-Monsoon,58.64,125.65,9.96,13705
+Tripura,Summer / Pre-Monsoon,63.69,132.1,7.33,23713
+Tripura,Winter,114.37,220.29,14.22,22020
+Uttar Pradesh,Monsoon,27.48,72.71,14.43,1644311
+Uttar Pradesh,Post-Monsoon,76.98,154.73,23.27,843834
+Uttar Pradesh,Summer / Pre-Monsoon,43.58,118.82,20.67,1252000
+Uttar Pradesh,Winter,68.13,133.08,26.12,1238097
+Uttarakhand,Monsoon,23.62,55.26,5.73,91209
+Uttarakhand,Post-Monsoon,54.04,93.07,9.89,47343
+Uttarakhand,Summer / Pre-Monsoon,41.75,91.26,10.67,69658
+Uttarakhand,Winter,57.43,92.62,12.55,70118
+West Bengal,Monsoon,26.21,55.26,20.06,653445
+West Bengal,Post-Monsoon,70.08,125.88,24.83,375559
+West Bengal,Summer / Pre-Monsoon,41.3,88.84,22.53,365672
+West Bengal,Winter,94.15,169.78,35.18,425145

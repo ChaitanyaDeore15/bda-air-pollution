@@ -1,0 +1,22 @@
+{
+  "Persistence_Lag1": {
+    "MAE": 15.6,
+    "RMSE": 23.59,
+    "R2": 0.96
+  },
+  "Rolling_Mean_24h": {
+    "MAE": 55.68,
+    "RMSE": 78.93,
+    "R2": 0.552
+  },
+  "Ridge_Regression": {
+    "MAE": 9.17,
+    "RMSE": 14.65,
+    "R2": 0.985
+  },
+  "Gradient_Boosting": {
+    "MAE": 18.04,
+    "RMSE": 37.4,
+    "R2": 0.899
+  }
+}

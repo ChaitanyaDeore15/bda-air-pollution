@@ -1,0 +1,9 @@
+{
+  "raw_record_count": 46937170,
+  "clean_record_count": 46937146,
+  "filtered_record_count": 24,
+  "retention_percentage": 100.0,
+  "ingest_time_seconds": 12.53,
+  "cleaning_time_seconds": 170.43,
+  "save_time_seconds": 166.93
+}

@@ -1,0 +1,10 @@
+{
+  "dataset_year": 2024,
+  "input_records": 46937170,
+  "valid_records": 46937146,
+  "filtered_records": 24,
+  "retention_percentage": 100.0,
+  "total_elapsed_seconds": 236.29,
+  "spark_master": "local[*]",
+  "spark_version": "3.5.3"
+}
